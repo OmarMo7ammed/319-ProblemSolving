@@ -1,2 +1,2 @@
 # 319-ProblemSolving
-Search Session 3 &amp;&amp; Tasks
+Search Session 3 &amp;&amp; Tasks Problem Solving

@@ -181,7 +181,7 @@
     echo "Division: ".division($num1,$num2).'<br>';
     echo "Power: ".power($num1,$num2).'<br>';
     echo "Modulus: ".modulus($num1,$num2).'<br>';
-
+    /////////////////////////////////////////////////////////////////////////////////////////////
  
 
     
